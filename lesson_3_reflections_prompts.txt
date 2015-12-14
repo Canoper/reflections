@@ -18,12 +18,13 @@ use one instead of another?
 
     branches are useful when you want to add new changes to a repository while maintaining
 	quick references to earlier versions. Cloning repositories allow you to work independantly
-from the original. Forking on GitHub allow you to make a copy that you have access rights to change.
+	from the original. Forking on GitHub allow you to make a copy that you have access rights to change.
  	
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    by having a copy of the last known state of the remote, you have access to the lastest changes.
+    You can perform the merge off-line at your leisure.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
