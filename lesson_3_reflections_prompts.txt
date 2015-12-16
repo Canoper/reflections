@@ -29,7 +29,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    If i was to collaborate with other users on a coding project without the use of Git/GitHub (or any other
+    version control utilities) I would probably insist that we work from a single location and only allow
+    one user to access a file at a time. This would prevent users from overwriting each others changes, but it
+    would not allow muliple people to work at the same time(at least on the same file).
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
